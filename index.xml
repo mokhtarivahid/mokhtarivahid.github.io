@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vahid Mokhtari</title>
+    <link>https://mokhtarivahid.github.io/</link>
+    <description>Recent content on Vahid Mokhtari</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://mokhtarivahid.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://mokhtarivahid.github.io/about/</link>
+      <pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://mokhtarivahid.github.io/about/</guid>
+      <description>I obtained my bachelor&amp;rsquo;s and master&amp;rsquo;s degrees in computer engineering from Qazvin Azad University in Iran. Later, I completed my Ph.D. in AI Planning and Robotics at the Institute of Electronics and Informatics Engineering of Aveiro (IEETA) at the University of Aveiro, Portugal. My doctoral dissertation contributes to developing novel algorithms for knowledge representation, robot learning, and task planning.&#xA;Following my Ph.D., I conducted postdoctoral research in the Robotics Research Group at KU Leuven from December 2018 to August 2022.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://mokhtarivahid.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mokhtarivahid.github.io/contact/</guid>
+      <description>Follow me at my linkedin profile.</description>
+    </item>
+    <item>
+      <title>Publication</title>
+      <link>https://mokhtarivahid.github.io/publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mokhtarivahid.github.io/publication/</guid>
+      <description>Retrieve my publications by accessing my Google Scholar profile.</description>
+    </item>
+  </channel>
+</rss>
