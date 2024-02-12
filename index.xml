@@ -15,18 +15,25 @@
       <description>I earned a Ph.D. in AI Planning and Robotics from IEETA at the University of Aveiro, Portugal. My doctoral dissertation contributes to the development of novel algorithms for knowledge representation, robot learning, and task planning. Prior to this, I earned my bachelor’s and master’s degrees in computer engineering from Qazvin Azad University in Iran.&#xA;Following the completion of my Ph.D., I conducted postdoctoral research in the Robotics Research Group at KU Leuven from December 2018 to August 2022.</description>
     </item>
     <item>
+      <title></title>
+      <link>https://mokhtarivahid.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mokhtarivahid.github.io/research/</guid>
+      <description>Research Line Link to heading Automated planning has been a foundational research area within AI since the field’s inception, with researchers continually making significant contributions over decades. Planning is a decision-making technology that involves reasoning based on a predictive model of a system and deciding how and when to act in order to achieve a desired objective. It is a relevant technology for many application areas that need quick, automated and optimal decisions, such as agile manufacturing, agrifood, and logistics.</description>
+    </item>
+    <item>
       <title>Contact</title>
       <link>https://mokhtarivahid.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://mokhtarivahid.github.io/contact/</guid>
-      <description>Follow me at my linkedin profile.</description>
+      <description>You can reach out to me through my linkedin profile.</description>
     </item>
     <item>
       <title>Publication</title>
       <link>https://mokhtarivahid.github.io/publication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://mokhtarivahid.github.io/publication/</guid>
-      <description>Here is a selection of my publication:&#xA;Pane, Yudha, Vahid Mokhtari, Erwin Aertbeliën, Joris De Schutter, and Wilm Decré. 2021. “Autonomous Runtime Composition of Sensor-Based Skills Using Concurrent Task Planning.” IEEE Robotics and Automation Letters 6 (4): 6481–88. https://doi.org/10.1109/LRA.2021.3094498.&#xA;Mokhtari, Vahid, Ajay Sathya, Nikolaos Tsiogkas, and Wilm Decré. 2021. “Safe-Planner: A Single-Outcome Replanner for Computing Strong Cyclic Policies in Fully Observable Non-Deterministic Domains.” In Proceedings of the 20th International Conference on Advanced Robotics (ICAR), 974–81.</description>
+      <description>Here is a selection of my publication:&#xA;Yudha Pane, Vahid Mokhtari, Erwin Aertbeliën, Joris De Schutter, and Wilm Decré. 2021. “Autonomous Runtime Composition of Sensor-Based Skills Using Concurrent Task Planning.” IEEE Robotics and Automation Letters 6 (4): 6481–88. https://doi.org/10.1109/LRA.2021.3094498.&#xA;Vahid Mokhtari, Ajay Sathya, Nikolaos Tsiogkas, and Wilm Decré. 2021. “Safe-Planner: A Single-Outcome Replanner for Computing Strong Cyclic Policies in Fully Observable Non-Deterministic Domains.” In Proceedings of the 20th International Conference on Advanced Robotics (ICAR), 974–81.</description>
     </item>
   </channel>
 </rss>
