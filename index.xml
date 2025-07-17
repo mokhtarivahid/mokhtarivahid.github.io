@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Vahid Mokhtari</title>
+    <title>Home on Vahid Mokhtari</title>
     <link>https://mokhtarivahid.github.io/</link>
-    <description>Recent content on Vahid Mokhtari</description>
+    <description>Recent content in Home on Vahid Mokhtari</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Thu, 17 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mokhtarivahid.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://mokhtarivahid.github.io/about/</link>
-      <pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://mokhtarivahid.github.io/about/</guid>
-      <description>I earned a Ph.D. in AI Planning and Robotics from IEETA at the University of Aveiro, Portugal. My doctoral dissertation contributes to the development of novel algorithms for knowledge representation, robot learning, and task planning. Prior to this, I earned my bachelor’s and master’s degrees in computer engineering from Qazvin Azad University in Iran.&#xA;Following the completion of my Ph.D., I conducted postdoctoral research in the Robotics Research Group at KU Leuven from December 2018 to August 2022.</description>
+      <description>About Me Link to heading I am a Senior Research Engineer at Flanders Make in the Production CoreLab, where I focus on advancing research and innovation in intelligent manufacturing and production systems.&#xA;Previously, I served as a software engineer at OMP, specializing in the development of software solutions for supply chain planning and optimization.&#xA;I earned my Ph.D. in AI Planning and Robotics from IEETA at the University of Aveiro, Portugal.</description>
     </item>
     <item>
       <title></title>
